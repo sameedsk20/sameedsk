@@ -18,11 +18,11 @@ const AboutMe = () => {
           </div>
           <div className="col-span-12 md:col-span-7 text-left">
             <h1 className="font-bold text-2xl md:text-3xl lg:text-5xl text-gray-400">
-              Assalam U Alaikum! <br/>I'm{' '}
+              Assalam U Alaikum! <br/>I'm
               <span className="font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-100">
                 Sameed Saeed Khan
-              </span>,<br/> a passionate{' '}
-                Web Developer{' '}
+              </span>,<br/> a passionate
+                Web Developer
               with a strong background in creating dynamic and user-friendly websites.
             </h1>
           </div>
@@ -39,7 +39,7 @@ const AboutMe = () => {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
                 <div>
                   <p className="text-lg font-bold mb-2 text-[#86c9eb]">2020 - Present</p>
-                  <p className="text-gray-400">Currently pursuing a <span className="text-[#86c9eb] font-bold">Bachelor's degree in Computer Science</span> from Dawood University of Engineering and Technology.</p>
+                  <p className="text-gray-400">Currently pursuing a <span className="text-[#86c9eb] font-bold">Bachelors degree in Computer Science</span> from Dawood University of Engineering and Technology.</p>
                 </div>
                 <div>
                   <p className="text-lg font-bold mb-2 text-[#86c9eb]">2018 - 2020</p>

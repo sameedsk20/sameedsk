@@ -6,7 +6,7 @@ export default function Basic() {
 
       <div className="md:w-1/2 text-5xl text-center text-[#86c9eb] font-semibold md:text-left">
         <p className="text-shadow-md">
-          Crafting Tomorrow's<br/> Digital Landscape with<br/>  
+          Crafting Tomorrows<br/> Digital Landscape with<br/>  
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-200 to-blue-400 font-extrabold tracking-wider">
             Web Development
           </span>
