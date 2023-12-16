@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes circular-float {
+    0% {
+      transform: translateY(0) rotate(0deg);
+    }
+    25% {
+      transform: translateY(0) rotate(90deg);
+    }
+    50% {
+      transform: translateY(0) rotate(0deg);
+    }
+    75% {
+      transform: translateY(0) rotate(-90deg);
+    }
+    100% {
+      transform: translateY(0) rotate(0deg);
+    }
+  }
+  
+  .animate-circular-float {
+    animation: circular-float 2s ease-in-out infinite;
+  }
+
+  .icon-hover:hover {
+  color: #86c9eb; 
+  transition: color 0.3s ease; 
+}
+
+  
+  
