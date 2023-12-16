@@ -1,4 +1,4 @@
-import React from 'react';
+
 import BackgroundGenerator from '../../../public/backgroundgenerator.png'
 import ScientificCalculator from '../../../public/scientificcalc.png'
 import Skuix from '../../../public/skuix.png'

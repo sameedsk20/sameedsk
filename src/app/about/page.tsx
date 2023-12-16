@@ -18,7 +18,7 @@ const AboutMe = () => {
           </div>
           <div className="col-span-12 md:col-span-7 text-left">
             <h1 className="font-bold text-2xl md:text-3xl lg:text-5xl text-gray-400">
-              Assalam U Alaikum! <br/>I'm
+              Assalam U Alaikum! <br/>I am
               <span className="font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-100">
                 Sameed Saeed Khan
               </span>,<br/> a passionate
